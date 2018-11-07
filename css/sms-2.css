@@ -1,0 +1,21 @@
+.box-two {
+  width: 100%;
+  padding: 40px;
+  background: #f5f6fa;
+}
+.sub-boxs {
+  width: 80%;
+  margin: auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  }
+.sms-2 {
+  width: 300px;
+  text-align: center;
+  margin: 20px;
+}
+.icon-heart, .icon-code, .icon-desktop {
+    color:  #eb797b;
+    font-size: 40px;
+}

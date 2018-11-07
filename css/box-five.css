@@ -1,0 +1,18 @@
+.box-five {
+  width: 100%;
+  background:  #eb797b;
+}
+.sms-for {
+  width: 90%;
+  max-width: 800px;
+  padding: 50px;
+  margin: auto;
+  color: #fff;
+  text-align: center;
+}
+.sms-for h4 {
+  font-size: 20px;
+}
+.sms-for p {
+  margin-top: 20px;
+}

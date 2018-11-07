@@ -1,0 +1,21 @@
+.box-three {
+  width: 100%;
+  background: #f7f7f7;
+  padding: 40px;
+}
+.box-img {
+  width: 80%;
+  margin: auto;
+  text-align: center;
+}
+.box-img h3 {
+}
+.box-img img {
+  margin-top: 40px;
+  transition: all 300ms;
+
+}
+.box-img img:hover {
+  transform: rotate(-50deg);
+  transition: all 300ms;
+}
